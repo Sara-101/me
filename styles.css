@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.photo-container {
+    margin: 20px 0;
+}
+
+.profile-photo {
+    width: 200px; /* Adjust the size as needed */
+    height: auto;
+    border-radius: 50%; /* Makes the image circular */
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: square; /* Using square list icons */
+    padding: 0;
+    text-align: left; /* Align text to the left for readability */
+    display: inline-block; /* Center the list */
+}
+
+li {
+    margin: 10px 0; /* Space between list items */
+}
